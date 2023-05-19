@@ -1,4 +1,4 @@
-[![MasterHead](![image]([https://github.com/abhiperfect/abhiperfect/assets/114478676/3a23a5cb-0923-49a2-81d1-4cf3efe27175))](https://ssodiumm.files.wordpress.com/2018/06/1_jb76mlzjinhgsqqvxm7lsq.gif)]
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
 <h3 align="center">A computer science enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
