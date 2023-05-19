@@ -1,4 +1,4 @@
-[![MasterHead](https://ssodiumm.files.wordpress.com/2018/06/1_jb76mlzjinhgsqqvxm7lsq.gif)]
+![MasterHead](https://ssodiumm.files.wordpress.com/2018/06/1_jb76mlzjinhgsqqvxm7lsq.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
 <h3 align="center">A computer science enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
