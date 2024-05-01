@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Blockchain Technology**
 
 - 💬 Ask me about **Node.js**
+- 🍀 I want to learn [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
 - 📫 How to reach me **abhishekprajapati.890e@gmail.com**
 
