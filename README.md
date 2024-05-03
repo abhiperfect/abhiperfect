@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ChatterBox](https://github.com/abhiperfect/ChatterBox)
 - 🌱 I’m currently learning **Blockchain Technology**
-- 👨‍💻 All of my projects are available at [https://my-portfolio-rouge-alpha.vercel.app/](https://my-portfolio-rouge-alpha.vercel.app/)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://my-portfolio-rouge-alpha.vercel.app/)
 - 💬 Ask me about **Node.js**
 - 🍀 I want to learn [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
